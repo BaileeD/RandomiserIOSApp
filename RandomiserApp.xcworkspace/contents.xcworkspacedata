@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:RandomiserApp">
+   </FileRef>
+   <FileRef
+      location = "group:RandomiserAppTests">
+   </FileRef>
+   <FileRef
+      location = "group:RandomiserAppUITests">
+   </FileRef>
+   <FileRef
+      location = "group:RandomiserApp.xcodeproj">
+   </FileRef>
+</Workspace>
